@@ -54,6 +54,10 @@ Keep 3.3V as input voltage. Refer to this diagram to setup the circuit:
 
 Fig. Circuit
 
+![workbench](https://github.com/Sanj24Dev/temperature-control/assets/72573321/819c7a45-03fb-4011-8178-bfad25ad59cd)
+
+Fig. Workbench 
+
 ## Configurations ##
 - The firmware provides the following configuration options:
 - Thermistor input pin: ADC1-3, 16 channels each
@@ -77,6 +81,6 @@ Fig. Control flow
 2. Power on the microcontroller with the firmware flashed.
 
 ## Appendices ##
-STM32F407VET6 datasheet: https://www.mouser.in/datasheet/2/389/stm32f405rg-1851084.pdf
-NTC thermistor datasheet: https://www.tme.eu/Document/f9d2f5e38227fc1c7d979e546ff51768/NTCM-100K-B3950.pdf 
+- STM32F407VET6 datasheet: https://www.mouser.in/datasheet/2/389/stm32f405rg-1851084.pdf
+- NTC thermistor datasheet: https://www.tme.eu/Document/f9d2f5e38227fc1c7d979e546ff51768/NTCM-100K-B3950.pdf 
 
