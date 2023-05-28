@@ -41,6 +41,7 @@ Here, B_coeff is the beta value of the thermistor, and the value used is 3950. T
 Now the system checks if the temperature is within the safe range. If not, then the duty cycle for the PWM is looked up in the following table:
 
 ![lookup table](https://github.com/Sanj24Dev/temperature-control/assets/72573321/79633c36-5437-4d12-99bf-bd6f7a449015)
+
 Fig. Lookup table
 
 Once the PWM is set, the temperature is checked again, and based on this feedback it will adjust the temperature accordingly.
@@ -50,6 +51,7 @@ The project is developed on IAR embedded workbench for ARM. The library used for
 Keep 3.3V as input voltage. Refer to this diagram to setup the circuit:
 
 ![circuit](https://github.com/Sanj24Dev/temperature-control/assets/72573321/2f9b7d76-74d7-4233-944a-040b29e6d424)
+
 Fig. Circuit
 
 ## Configurations ##
@@ -67,6 +69,7 @@ Fig. Circuit
 - controller.c: This file has the functions to control the heating element and cooling fan, and log the heating/cooling cycle into the SD card. These functions are called by the main.c when the temperature goes beyond the safe range.
 
 ![control flow](https://github.com/Sanj24Dev/temperature-control/assets/72573321/0f2aa212-1be8-4acc-8445-decaeb6e3e80)
+
 Fig. Control flow
 
 ## Usage Guide ##
