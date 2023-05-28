@@ -1,0 +1,45 @@
+stm32f4xx_spi.pbi: \
+  D:\accio_submissions\lib\STM32\ lib\src_drivers\stm32f4xx_spi.c \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers\stm32f4xx_spi.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_core\core_cm4.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_core\core_cmInstr.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\cmsis_iar.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c/iccarm_builtin.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_core\core_cmFunc.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_core\core_cmSimd.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/system_stm32f4xx.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_conf.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_adc.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_crc.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_dbgmcu.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_dma.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_exti.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_flash.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_gpio.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_i2c.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_iwdg.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_pwr.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_rcc.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_rtc.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_sdio.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_spi.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_syscfg.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_tim.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_usart.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_wwdg.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/misc.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_cryp.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_hash.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_rng.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_can.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_dac.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_dcmi.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers/stm32f4xx_fsmc.h \
+  D:\accio_submissions\lib\STM32\ lib\inc_drivers\stm32f4xx_rcc.h
